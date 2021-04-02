@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cassiofreitas
-- 👀 I’m interested in digital transformation
-- 🌱 I’m currently learning github
+- 👀 I’m interested in digital transformation, security as a service
+- 🌱 I’m currently learning github (cli is still fooling me :-) )
 - 💞️ I’m looking to collaborate on cloud security solutions
 - 📫 How to reach me cassiofreitas@cassiofreitas.com
 
