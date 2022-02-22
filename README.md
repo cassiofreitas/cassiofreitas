@@ -10,13 +10,15 @@ cassiofreitas/cassiofreitas is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-This is also the space I am using to learn and practice about MarkDown.
+# Things I am learning to be a MarkDown :ninja:
+
+## MarkDown.
 
 It has been a funny task, because I love to learn new things everyday.
 
 I will use this skill to enhance my README.md files and to build my CV at GitHub, using MarkDown.
 
-# How about today `21/02/2022`
+### How about today `21/02/2022`
 
 Today, I explored [`emoji-cheat-sheet`](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
@@ -37,6 +39,8 @@ graph LR
   A((I a m here)) -- going to --> B{over there}
 ```
 
+### Next episode
+
 <details><summary>Next time I will explore this feature.</summary>
 <p>
   
@@ -46,5 +50,3 @@ graph LR
   
 </p>
 </details>
-  
-  
