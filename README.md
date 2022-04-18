@@ -34,6 +34,10 @@ I am also begining my learning path of [some advanced formatting](https://docs.g
 
 Example I am curious about: [Creating diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
 
+:atom: 17/04/2022: I just found this great site about [Mermaid Live editor](https://mermaid.live/).
+
+Using this live editor is much easier to draw diagrams. 🤫
+
 ```mermaid
 graph LR
   A((I a m here)) -- going to --> B{over there}
