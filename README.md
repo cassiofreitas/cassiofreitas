@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @cassiofreitas
 - 👀 I’m interested in digital transformation and security as a service
+- ---
 - 🌱 I’m currently learning github (cli is still fooling me :-) )
 - 🌱 I'm also learning HTML5, CSS, JavaScript and Python
 - 🌱 Since June 1st 2022, learning C# at Digital House/ Mercado Eletônico
+- ---
 - 💞️ I’m looking to collaborate on cloud security solutions
 - 📫 How to reach me: cassiofreitas@cassiofreitas.com
 
