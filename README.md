@@ -12,7 +12,7 @@ cassiofreitas/cassiofreitas is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# Things I am learning to be a MarkDown
+# As life goes on ... :-)
 
 ## MarkDown.
 
