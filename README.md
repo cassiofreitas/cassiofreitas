@@ -2,8 +2,8 @@
 - 👀 I’m interested in using technology to have a better quality of life.
 - ---
 - 🌱 I’m always improving my :octocat: experience.
-- 🌱 Since June 1st 2022, learning, every day, C# at Digital House/ Mercado Eletrônico
-- 🌱 Since July 11nth 2022, learning, every day, Java/Spring/React at DevSuperior Semana Sprint React
+- 🌱 Since June 1st 2022, learning, every day, `C# and .NET` at Digital House/ Mercado Eletrônico
+- 🌱 From July 11nth 2022 to July 17nth 2022, learnt, every day, `Java/Spring/React` at DevSuperior Semana Sprint React
 - ---
 - 💞️ I’m looking to collaborate on C# projects
 - 💞️ I’m looking to collaborate on Java/SpringBoot projects
