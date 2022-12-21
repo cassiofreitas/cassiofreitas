@@ -9,6 +9,11 @@
 
 - 📫 How to reach me: cassiofreitas@cassiofreitas.com
 
+- ---
+Interesting and important repos I am collecting
+- 
+- [Security Study Plan](https://github.com/jassics/security-study-plan)
+- ---
 <!---
 cassiofreitas/cassiofreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
