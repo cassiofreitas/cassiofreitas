@@ -13,6 +13,7 @@
 Interesting and important repos I am collecting
 - 
 - [Security Study Plan](https://github.com/jassics/security-study-plan)
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook?utm_source=tldrnewsletter)
 - ---
 <!---
 cassiofreitas/cassiofreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
