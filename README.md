@@ -14,6 +14,8 @@ Interesting and important repos I am collecting
 - 
 - [Security Study Plan](https://github.com/jassics/security-study-plan)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook?utm_source=tldrnewsletter)
+- [Google - Introduction to Generative AI](https://www.cloudskillsboost.google/course_templates/536?utm_source=cgc&utm_medium=blog&utm_campaign=learngenai)
+- [Google - Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118?utm_source=cgc&utm_medium=blog&utm_campaign=learngenai)
 - ---
 <!---
 cassiofreitas/cassiofreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
