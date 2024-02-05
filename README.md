@@ -5,7 +5,6 @@
 - 🌱 `C# and .NET` are now a daily learn objective, via Microsoft Learn program.
 - ---
 - 💞️ I’m looking to collaborate on C# projects
-- 💞️ I’m looking to collaborate on Java/SpringBoot projects
 
 - 📫 How to reach me: cassiofreitas@cassiofreitas.com
 
