@@ -13,6 +13,7 @@
  - [Google - Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118?utm_source=cgc&utm_medium=blog&utm_campaign=learngenai)
  - [X2Go - everywhere@home](https://wiki.x2go.org/doku.php)
  - [Arduino Cloud's features provide seamless IoT solutions, delivering connectivity and control tailored for schools, individuals, and enterprises](https://cloud.arduino.cc/)
+ - [ Docker: repositório de arquivos compose.yaml para várias aplicações](https://github.com/fabricioveronez/catalogo-docker-compose)
 - ---
 ## Space and weather related
  - [Space Weather](https://solarham.com/)
